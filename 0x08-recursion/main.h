@@ -1,10 +1,10 @@
 int _putchar(char c);
-void _puts_recusion(char *s);
-void _prints_rev_recursion(char *s)
-int _strlen_recusion(char *s);
+void _puts_recursion(char *s);
+void _print_rev_recursion(char *s);
+int _strlen_recursion(char *s);
 int factorial(int n);
-int _pow_recusion(int x, int y);
-int _squrt_recusion(int n);
+int _pow_recursion(int x, int y);
+int _sqrt_recursion(int n);
 int is_prime_number(int n);
-int is_palimdrome(char *s);
+int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
