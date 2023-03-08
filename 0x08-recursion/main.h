@@ -1,6 +1,6 @@
 int _putchar(char c);
 void _puts_recusion(char *s);
-void _prints_rev_recursion(chac *s)
+void _prints_rev_recursion(char *s)
 int _strlen_recusion(char *s);
 int factorial(int n);
 int _pow_recusion(int x, int y);
