@@ -1,1 +1,1 @@
-starting c language today 
+all about more singly linked list
